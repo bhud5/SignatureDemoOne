@@ -14,6 +14,9 @@ import java.io.FileInputStream;
 
 public class ImageTest extends AppCompatActivity {
 
+    //Comment for test
+    //com2
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
